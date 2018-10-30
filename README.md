@@ -1,4 +1,10 @@
-## Welcome to Istanbul
+## Parti Enver jemi gati kurdoher
+
+Urdheri nuk komentohet, por zbatohet.
+
+### Topics
+
+Per programim diqka.
 
 You can use the [editor on GitHub](https://github.com/Gentiansyla/grupi-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,25 +19,24 @@ Syntax highlighted code block
 
 # webfaqja ime
 ## Github pages
-### Header 3
+### Drejt Pi Gilanit
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+- Git
+- Github
+- Devops
+- Zenhub
+
+
+- HTML
+- Bootstrap
+- CSS
+- Javascript
+- _jQuery_
+- **githup pages**
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gentiansyla/grupi-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
